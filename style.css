@@ -1,0 +1,15 @@
+h1 {
+    color: crimson;
+}
+h2 {
+    color: #87ceeb;
+}
+h3 {
+    color: rgb(173, 255, 47);
+}
+h4 {
+    color: hsl(271, 76%, 53%);
+}
+div {
+    background-color: teal
+}
