@@ -1,0 +1,15 @@
+@font-face {
+    font-family: 'Roboto_regular';
+    src: url(./fonts/Roboto-Regular.ttf) format(truetype);
+    font-weight: normal;
+}
+body {
+    max-width: 1440px;
+    margin: auto;
+    font-family: 'Roboto', sans-serif;
+}
+
+
+footer {
+    background-color: #1f2937;
+}
