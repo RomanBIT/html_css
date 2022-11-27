@@ -1,0 +1,24 @@
+.section-three-main {
+    background-color: #3882f6;
+    color: #e5e7eb;
+    font-size: 18px;
+    border-radius: 15px;
+    margin: 100px;
+    padding: 50px 100px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.section-three-main p {
+    margin: 0px;
+}
+.section-three-main button {
+    border: 2px solid #e5e7eb;
+    width: 130px;
+    font-size: 18px;
+}
+.section-tree-slogan {
+    color: #f9faf8;
+    font-size: 30px;
+    font-weight: 700;
+}

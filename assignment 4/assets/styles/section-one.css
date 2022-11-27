@@ -1,0 +1,27 @@
+
+.section-one-text {
+    display: flex;
+    justify-content: center;
+    font-size: 36px;
+    font-weight: 800;
+    color: #1f2937;
+}
+.section-one-container img {
+    max-width: 170px;
+    border: 4px;
+    border-radius: 15px;
+    border-style: solid;
+    border-color: #3882f6;
+}
+.section-one-blocks {
+    display: flex;
+    justify-content: space-around;
+    padding: 0px 230px 130px;
+}
+.section-one-block {
+    max-width: 170px;
+}
+.section-one-block div {
+    text-align: center;
+    letter-spacing: 1px;
+}

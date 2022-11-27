@@ -1,0 +1,28 @@
+@font-face {
+    font-family: 'Roboto_Italic';
+    src: url(/assets/fonts/Roboto-LightItalic.ttf);
+}
+
+@font-face {
+    font-family: 'Roboto_bold';
+    src: url(/assets/fonts/Roboto-Bold.ttf);
+}
+
+.section-two-container {
+    background-color: #e5e7eb;
+    font-family: 'Roboto_Italic';
+    color: #1f2937;
+    font-size: 36px;
+    padding: 100px 280px;
+}
+.quote {
+    margin-bottom: 0px;
+}
+.author {
+    display: flex;
+    justify-content: end;
+    font-family: 'Roboto_bold';
+    font-size: 28px;
+    font-weight: 900;
+    margin-top: 0px;
+}
